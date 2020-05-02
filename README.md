@@ -2,6 +2,17 @@
 
 todo app
 
+## Install and Download Node JS
+
+```
+https://nodejs.org/en/download/
+```
+
+## Install and Download Quasar
+
+```
+https://quasar.dev/start/quasar-cli
+```
 ## Install the dependencies
 ```bash
 yarn
